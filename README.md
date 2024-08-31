@@ -1,5 +1,5 @@
 # CSST101
- (https://youtu.be/lthvxx6IGRY) 
+ [link of recorded PPT](https://youtu.be/lthvxx6IGRY) 
 # Overview of Machine Learning Applications
 
 ## Exploring Real-World Uses Across Various Domains
