@@ -1,15 +1,15 @@
 # CSST101
 
-#Overview of Machine Learning Applications
+#**Overview of Machine Learning Applications**
 Exploring Real-World Uses Across Various Domains
 
-#Table of Contents
-Introduction to Machine Learning
-1.Application 1 - Healthcare: Predictive Diagnostics
-2.Application 2 - Finance: Fraud Detection
-3.Application 3 - Marketing: Customer Segmentation
-4.Conclusion
-5.References
+#****Table of Contents
+1.Introduction to Machine Learning
+2.Application 1 - Healthcare: Predictive Diagnostics
+3.Application 2 - Finance: Fraud Detection
+4.Application 3 - Marketing: Customer Segmentation
+5.Conclusion
+6.References
 
 #Introduction to Machine Learning
 
