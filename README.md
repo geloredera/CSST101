@@ -83,9 +83,3 @@ As ML technology advances, its applications will continue to expand, further rev
 Include sources where you gathered your information.
 """
 
-# Write the content to a README.md file
-file_path = "/mnt/data/README.md"
-with open(file_path, "w") as file:
-    file.write(readme_content)
-
-file_path
