@@ -1,6 +1,4 @@
-# Create a README.md file with the provided content
-
-readme_content = """
+# CSST101
 # Overview of Machine Learning Applications
 
 ## Exploring Real-World Uses Across Various Domains
